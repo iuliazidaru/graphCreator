@@ -1,0 +1,5 @@
+install java (7 +)
+install java FX (2+)
+for platform dependent generation see: https://blogs.oracle.com/talkingjavadeployment/entry/native_packaging_for_javafx
+windows :
+http://wix.sourceforge.net/
